@@ -18,6 +18,7 @@ The analysis provides deep insights into customer behavior, preferences, and the
 
 ### PowerBI Report :
 
-![Dashboard](https://github.com/aniketpawar123/Project-Cricket-Analysis/assets/123149177/bcfeef80-51c4-4f67-b77a-d7f88b318b49)
+![Dashboard](https://github.com/aniketpawar123/Project-Marketing-Insights-For-E-Commerce-Company/assets/123149177/4f45d703-e42d-4cd4-989a-6da23d40d773)
+
 
 
