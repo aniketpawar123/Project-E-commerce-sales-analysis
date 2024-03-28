@@ -17,5 +17,7 @@ Through meticulous analysis of the provided data, this project sheds light on cr
 The analysis provides deep insights into customer behavior, preferences, and the effectiveness of marketing initiatives. Additionally, exploring revenue streams and applying GST details helps discern the financial landscape of the company, identifying areas of strength and opportunities for improvement. Ultimately, this project equips stakeholders with actionable insights and data-driven recommendations to optimize operations, enhance customer experiences, and maximize profitability in the dynamic landscape of e-commerce.
 
 ### PowerBI Report :
-![Dashboard](https://github.com/aniketpawar123/Project-Marketing-Insights-For-E-Commerce-Company/assets/123149177/dc2e749d-c58b-4f78-9d31-395343c07e9a)
+
+![Dashboard](https://github.com/aniketpawar123/Project-Cricket-Analysis/assets/123149177/bcfeef80-51c4-4f67-b77a-d7f88b318b49)
+
 
