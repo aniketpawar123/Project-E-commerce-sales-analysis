@@ -18,7 +18,8 @@ The analysis provides deep insights into customer behavior, preferences, and the
 
 ### PowerBI Report :
 
-![Dashboard](https://github.com/aniketpawar123/Project-E-commerce-sales-analysis/assets/123149177/5470e5c3-81ca-46ba-8569-d4b303e7725a)
+![Dashboard](https://github.com/aniketpawar123/Project-E-commerce-sales-analysis/assets/123149177/30cdf576-c767-4ea9-87c3-947452a719ec)
+
 
 
 
